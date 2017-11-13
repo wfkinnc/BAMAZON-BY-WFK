@@ -1,0 +1,23 @@
+{
+  "name": "bamazon-by-wfk",
+  "version": "1.0.0",
+  "description": "Sample shopping cart app using mySQL as the data base and Inquirer as the UI.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfkinnc/bamazon-by-wfk.git"
+  },
+  "author": "W Kassebaum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wfkinnc/bamazon-by-wfk/issues"
+  },
+  "homepage": "https://github.com/wfkinnc/bamazon-by-wfk#readme",
+  "dependencies": {
+    "inquirer": "^4.0.0",
+    "mysql": "^2.15.0"
+  }
+}

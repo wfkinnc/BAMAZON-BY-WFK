@@ -1,0 +1,12 @@
+USE bamazon;
+INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES  ('VCR - BETA - Magnavox', 'Video', 125.20, 1000);
+INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES  ('VCR - VHS - Sony', 'Video', 125.20, 1000);
+INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES  ('DVD - Blue Ray - Phillips', 'Video', 195.25, 2000);
+INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES  ('DVD - Phillips', 'Video', 125.20, 1000);
+INSERT INTO products  (product_name, department_name, price, stock_quantity) VALUES  ('CD PLayer - Techniques', 'Music', 35.25, 2000);
+INSERT INTO products  (product_name, department_name, price, stock_quantity) VALUES  ('Record Player - Pioneer', 'Music', 135.25, 2000);
+INSERT INTO products  (product_name, department_name, price, stock_quantity) VALUES  ('Tape PLayer - Onkyo', 'Music', 75.25, 250);
+INSERT INTO products  (product_name, department_name, price, stock_quantity) VALUES  ('Head Phones - Dr Dre.', 'Music', 135.25, 2000);
+INSERT INTO products  (product_name, department_name, price, stock_quantity) VALUES  ('Car Radio - Radio-  Audiovox', 'Car Music', 65.25, 2000);
+INSERT INTO products  (product_name, department_name, price, stock_quantity) VALUES  ('Car Radio - Radio with Tape -  Audiovox', 'Car Music', 85.25, 2000);
+INSERT INTO products  (product_name, department_name, price, stock_quantity) VALUES  ('Car Radio - Radio with CD -  Jensen', 'Car Music', 105.25, 2000);
