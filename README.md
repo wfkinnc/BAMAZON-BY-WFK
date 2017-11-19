@@ -7,4 +7,4 @@ It then makes a SQL call to the database to confirm the quantity is available.
 
 * If is it not available, the a  message is displayed to the user that the quantity is not available.
 
- 
+image (/assets/docImages/tstImg.png) 
