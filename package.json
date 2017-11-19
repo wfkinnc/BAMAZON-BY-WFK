@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/wfkinnc/bamazon-by-wfk#readme",
   "dependencies": {
+    "console.table": "^0.9.1",
+    "dotenv": "^4.0.0",
     "inquirer": "^4.0.0",
     "mysql": "^2.15.0"
   }
